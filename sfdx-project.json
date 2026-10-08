@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "sg-single-scheduler",
+  "namespace": "",
+  "sourceApiVersion": "66.0"
+}

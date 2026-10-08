@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>VJ_SingleScheduler</members>
+        <members>VJ_SingleSchedulerTest</members>
+        <members>VJ_ChainWatchdog</members>
+        <members>VJ_ChainWatchdogTest</members>
+        <members>VJErrorLogger</members>
+        <members>VJNebulaErrorLogger</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>VJ_Scheduled_Task_Config__mdt</members>
+        <members>VJ_Scheduler_Chain_State__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>VJ_Scheduled_Task_Config.Task_Processor</members>
+        <name>CustomMetadata</name>
+    </types>
+    <version>66.0</version>
+</Package>

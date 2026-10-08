@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>Hierarchy</customSettingsType>
+    <description>Runtime state for the scheduler framework DocGen single-scheduler chain. Stores consecutive failure count and last-run metadata as a singleton org-default record. Read via getInstance() (no SOQL). Full error detail logged to Nebula Logger.</description>
+    <enableFeeds>false</enableFeeds>
+    <label>Scheduler Chain State</label>
+    <visibility>Public</visibility>
+</CustomObject>

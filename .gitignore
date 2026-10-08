@@ -1,0 +1,16 @@
+# Salesforce
+.sf/
+.sfdx/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if PMD runner or similar is used)
+node_modules/
